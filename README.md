@@ -57,7 +57,7 @@
         이희수 - 회원가입 페이지, 로그인 페이지, 장바구니 페이지 
         
     * Back-end   
-        김가람휘 - 초기세팅, 모델링, 상품 리스트 API, 상품 상세페이지 API, 주문 API, db_uploader 작성  
+        김가람휘 - 초기세팅, 모델링, 상품 리스트 API, 상품 상세페이지 API, 주문 API, db_uploader 작성, AWS 배포  
         김지성 - 모델링, 회원가입/로그인 API, 로그인 데코레이터, 장바구니 API  
 <br><br>
 
@@ -108,7 +108,7 @@
 
 ---
 # API 기능정의서
-[Link](https://documenter.getpostman.com/view/19725087/UVsJvSCU)
+[API Document](https://documenter.getpostman.com/view/19725087/UVsJvSCU)
 
 <br><br>
 
